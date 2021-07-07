@@ -18,8 +18,12 @@
 
     Version Control:
         *Git
-5.
+5. 
+    *Link for my latest project in JavaScript https://codehs.com/share/id/breakout-J2tT9G/run
+    *Link for my first project https://codehs.com/share/id/write-the-code-IZxmXV/run
 6.
+    *Doing competitive programming at Codeforces and Atcoder
+    *freelancer at https://www.freelancer.com/
 7.  
     *Computer Engineering courses at San Diego State University
     *Web Development courses on https://www.freecodecamp.org/
